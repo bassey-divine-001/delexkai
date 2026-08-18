@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Delex AI controller</string>
+    <string name="toggle_service">Master Toggle</string>
+    <string name="service_enabled">Floating Bubble Active</string>
+    <string name="service_disabled">Floating Bubble Inactive</string>
+    <string name="listening">Listening...</string>
+    <string name="not_listening">Listening Disabled</string>
+    <string name="shizuku_permission_required">Shizuku Permission Required</string>
+    <string name="request_shizuku_permission">Grant Shizuku Permission</string>
+    <string name="battery_optimization_request">Request Battery Optimization Bypass</string>
+</resources>

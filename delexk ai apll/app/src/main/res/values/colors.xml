@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_blue">#1E88E5</color>
+    <color name="primary_dark_blue">#0D47A1</color>
+    <color name="secondary_cyan">#00BCD4</color>
+    <color name="secondary_dark_cyan">#00838F</color>
+    <color name="error_red">#F44336</color>
+    <color name="background_dark">#121212</color>
+    <color name="surface_dark">#1E1E1E</color>
+    <color name="text_white">#FFFFFF</color>
+    <color name="text_light_gray">#BDBDBD</color>
+    <color name="bubble_blue">#2196F3</color>
+    <color name="bubble_glow">#42A5F5</color>
+</resources>
